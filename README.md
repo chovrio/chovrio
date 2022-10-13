@@ -3,3 +3,4 @@ chovrio/chovrio is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 前端小白
+[![chovrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=chovrio)](https://github.com/chovrio/github-readme-stats)
