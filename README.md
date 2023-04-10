@@ -12,7 +12,7 @@ Welcome to my home, you can call me chovrio, for more about myself:
 🎃 future study plan
  - nest
  - rust
- - some low level stuff
+ - learning framework principles
 
 	
 😪 How to reach me: Friend my WeChat id: chovrio
