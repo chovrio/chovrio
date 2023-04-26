@@ -7,7 +7,8 @@ Hi there 👋
 
 Welcome to my home, you can call me chovrio or 拾叁, for more about myself:
 
-<!--- https://juejin.cn/user/2577724084330846 --->
+https://juejin.cn/user/2577724084330846
+
 
 🎃 future study plan
  - nest
