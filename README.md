@@ -11,7 +11,7 @@ https://juejin.cn/user/2577724084330846
 
 🎃 future study plan
  - rust
- - learning framework principles
+ - framework principles
 	
 😪 How to reach me: Friend my WeChat id: chovrio
 
