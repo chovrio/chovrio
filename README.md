@@ -16,3 +16,5 @@ https://juejin.cn/user/2577724084330846
 😪 How to reach me: Friend my WeChat id: chovrio
 
 [![chovrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=chovrio)](https://github.com/chovrio/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chovrio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
