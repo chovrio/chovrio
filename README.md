@@ -10,8 +10,7 @@ Welcome to my home, you can call me chovrio or 拾叁, for more about myself:
 https://juejin.cn/user/2577724084330846
 
 🎃 future study plan
- - rust
- - framework principles
+
 	
 😪 How to reach me: Friend my WeChat id: chovrio
 
